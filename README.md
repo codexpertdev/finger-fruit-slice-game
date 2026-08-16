@@ -129,9 +129,3 @@ You can also open `index.html` directly, but always use the **same method** so y
 - Webcam
 - Modern browser with WebRTC support (Chrome recommended)
 - Good lighting on your hand for reliable tracking
-
-## Credits
-
-Made by [@code_with_aavi](https://www.instagram.com/code_with_aavi/) on Instagram.
-
-GitHub: [awnish9002](https://github.com/awnish9002)
