@@ -99,29 +99,6 @@ Reaching a new level triggers a screen flash and callout (e.g. **MEDIUM!**).
 - **Lifetime stats** on the start screen: games played and total fruits sliced.
 - **Game over screen** shows: final score, best score, fruits sliced, max combo, and bombs hit.
 
-## Git & GitHub
-
-- **GitHub:** [github.com/awnish9002](https://github.com/awnish9002)
-
-Clone the project with Git:
-
-```bash
-git clone https://github.com/awnish9002/finger-fruit-slice.git
-cd finger-fruit-slice
-```
-
-Then run a local server (see [Run Locally](#run-locally) below).
-
-## Run Locally
-
-Because the game uses the webcam, use a local server for best results:
-
-```bash
-python -m http.server 8080
-```
-
-Then open **http://localhost:8080** in Chrome.
-
 You can also open `index.html` directly, but always use the **same method** so your high score saves correctly.
 
 ## Requirements
